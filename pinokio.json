@@ -1,0 +1,28 @@
+{
+  "title": "Higgs Audio Studio",
+  "description": "Higgs Audio v3 TTS + AI-режиссёр текста, клонирование голоса, подкаст и аудиокнига (мульти-спикер). 100+ языков, оффлайн, NVIDIA GPU.",
+  "icon": "icon.jpg",
+  "posts": [],
+  "links": [
+    {
+      "title": "Higgs Audio Studio (app)",
+      "links": [
+        { "title": "GitHub", "value": "https://github.com/timoncool/HiggsAudio-Studio" }
+      ]
+    },
+    {
+      "title": "Author — Nerual Dreming",
+      "links": [
+        { "title": "ArtGeneration.me", "value": "https://artgeneration.me" },
+        { "title": "GitHub", "value": "https://github.com/timoncool" },
+        { "title": "Telegram (Нейро-Софт)", "value": "https://t.me/neuro_software" }
+      ]
+    },
+    {
+      "title": "Base model — Higgs Audio v3 TTS (Boson AI)",
+      "links": [
+        { "title": "bosonai/higgs-audio-v3-tts-4b", "value": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b" }
+      ]
+    }
+  ]
+}
