@@ -1,6 +1,6 @@
 {
   "title": "Higgs Audio Studio",
-  "description": "Higgs Audio v3 TTS + AI-режиссёр текста, клонирование голоса, подкаст и аудиокнига (мульти-спикер). 100+ языков, оффлайн, NVIDIA GPU.",
+  "description": "Higgs Audio v3 TTS + AI text director, voice cloning, podcast & audiobook (multi-speaker). 100+ languages, offline, NVIDIA GPU.",
   "icon": "icon.jpg",
   "posts": [],
   "links": [
@@ -15,7 +15,7 @@
       "links": [
         { "title": "ArtGeneration.me", "value": "https://artgeneration.me" },
         { "title": "GitHub", "value": "https://github.com/timoncool" },
-        { "title": "Telegram (Нейро-Софт)", "value": "https://t.me/neuro_software" }
+        { "title": "Telegram (Нейро-Софт)", "value": "https://t.me/neuroport" }
       ]
     },
     {

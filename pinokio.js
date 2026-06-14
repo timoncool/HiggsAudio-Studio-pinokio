@@ -2,7 +2,7 @@ const path = require('path')
 module.exports = {
   version: "7.0",
   title: "Higgs Audio Studio",
-  description: "Higgs Audio v3 TTS + AI-режиссёр, клонирование, подкаст и аудиокнига. 100+ языков, оффлайн.",
+  description: "Higgs Audio v3 TTS + AI text director, voice cloning, podcast & audiobook. 100+ languages, offline.",
   icon: "icon.jpg",
   menu: async (kernel, info) => {
     let installed = info.exists("app/env")
